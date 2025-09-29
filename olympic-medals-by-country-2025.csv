@@ -1,0 +1,147 @@
+"flagCode","country","OlympicMedalsTotal_2022","OlympicMedalsGold","OlympicMedalsSilver","OlympicMedalsBronze","OlympicMedalsYouthTotal"
+"US","United States",3105,1229,1000,876,96
+"DE","Germany",1211,384,419,408,113
+"FR","France",1040,312,336,392,89
+"GB","United Kingdom",1035,325,351,359,47
+"CN","China",900,384,281,235,187
+"IT","Italy",885,299,278,308,96
+"RU","Russia",779,290,243,246,228
+"SE","Sweden",740,233,245,262,43
+"JP","Japan",690,229,220,241,115
+"AU","Australia",636,185,204,247,73
+"NO","Norway",617,221,205,191,48
+"CA","Canada",604,157,197,250,51
+"HU","Hungary",601,210,183,208,66
+"NL","Netherlands",512,159,166,187,33
+"FI","Finland",507,155,157,195,18
+"KR","South Korea",447,166,144,137,81
+"CH","Switzerland",441,142,146,153,52
+"AT","Austria",412,113,138,161,51
+"PL","Poland",346,89,99,158,17
+"RO","Romania",332,98,107,124,23
+"CU","Cuba",259,99,73,87,24
+"BG","Bulgaria",246,61,96,89,16
+"DK","Denmark",232,54,89,89,11
+"UA","Ukraine",225,60,63,102,77
+"ES","Spain",208,54,82,72,34
+"BE","Belgium",202,55,68,79,21
+"BR","Brazil",182,47,55,80,32
+"GR","Greece",169,47,63,59,12
+"NZ","New Zealand",160,61,40,59,17
+"CZ","Czech Republic",135,36,46,53,34
+"TR","Turkey",134,45,34,55,31
+"KE","Kenya",128,43,45,40,15
+"BY","Belarus",126,26,48,52,21
+"AR","Argentina",115,34,36,45,38
+"KZ","Kazakhstan",108,24,31,53,29
+"ZA","South Africa",106,33,39,34,15
+"MX","Mexico",101,16,33,52,29
+"IR","Iran",101,36,28,37,25
+"JM","Jamaica",95,30,38,27,7
+"SI","Slovenia",85,22,27,36,33
+"ET","Ethiopia",79,30,20,29,21
+"AZ","Azerbaijan",75,19,24,32,26
+"KP","North Korea",67,20,20,27,10
+"UZ","Uzbekistan",66,17,16,33,29
+"HR","Croatia",63,22,22,19,11
+"EG","Egypt",62,15,15,32,26
+"TH","Thailand",61,21,18,22,26
+"IN","India",58,13,25,20,23
+"SK","Slovakia",57,16,25,16,15
+"CO","Colombia",53,12,20,21,19
+"GE","Georgia",51,11,18,22,11
+"TW","Taiwan",50,10,18,22,14
+"EE","Estonia",48,15,13,20,4
+"IE","Ireland",45,12,14,19,7
+"LV","Latvia",43,8,18,17,12
+"ID","Indonesia",40,8,14,18,3
+"LT","Lithuania",40,13,10,17,14
+"MN","Mongolia",36,4,14,18,6
+"NG","Nigeria",35,6,14,15,8
+"PT","Portugal",35,6,13,16,7
+"MA","Morocco",34,9,10,15,10
+"VE","Venezuela",34,5,15,14,15
+"RS","Serbia",33,7,11,15,9
+"AM","Armenia",31,5,11,15,13
+"IL","Israel",23,7,5,11,10
+"DZ","Algeria",22,5,9,8,5
+"TT","Trinidad and Tobago",22,4,6,12,3
+"TN","Tunisia",20,6,5,9,5
+"MY","Malaysia",19,2,11,6,6
+"BS","Bahamas",19,8,3,8,3
+"DO","Dominican Republic",17,5,6,6,5
+"HK","Hong Kong",17,2,9,6,8
+"PH","Philippines",15,1,6,8,1
+"UG","Uganda",15,5,5,5,4
+"VN","Vietnam",14,5,6,3,9
+"CL","Chile",14,3,7,4,1
+"KG","Kyrgyzstan",14,1,6,7,7
+"SG","Singapore",14,3,5,6,9
+"PR","Puerto Rico",14,3,3,8,4
+"MD","Moldova",13,3,4,6,7
+"PK","Pakistan",12,3,4,5,2
+"EC","Ecuador",11,4,5,2,6
+"UY","Uruguay",11,3,2,6,1
+"QA","Qatar",11,4,3,4,3
+"LI","Liechtenstein",11,2,2,7,1
+"ZW","Zimbabwe",8,6,4,1,
+"LU","Luxembourg",8,3,5,,1
+"PE","Peru",7,2,3,2,3
+"GH","Ghana",6,1,1,4,1
+"CM","Cameroon",6,3,1,2,
+"JO","Jordan",6,1,2,3,3
+"TJ","Tajikistan",6,1,2,3,2
+"BH","Bahrain",6,2,3,1,2
+"IS","Iceland",6,1,2,3,2
+"ZM","Zambia",5,1,2,2,3
+"LB","Lebanon",5,,2,3,1
+"NA","Namibia",5,,5,,
+"CI","Ivory Coast",4,1,1,2,
+"SY","Syria",4,1,1,2,
+"BI","Burundi",4,2,2,,2
+"CR","Costa Rica",4,1,1,2,
+"KW","Kuwait",4,,,4,1
+"ER","Eritrea",4,1,,3,3
+"BW","Botswana",4,,3,1,2
+"FJ","Fiji",4,2,,2,1
+"GD","Grenada",4,1,1,2,1
+"AF","Afghanistan",3,,,3,1
+"NE","Niger",3,,1,2,1
+"LK","Sri Lanka",3,,2,1,1
+"HT","Haiti",3,,2,1,1
+"AE","United Arab Emirates",3,1,1,1,1
+"PA","Panama",3,1,,2,
+"MK","North Macedonia",3,,1,2,1
+"CY","Cyprus",3,,3,,2
+"SR","Suriname",3,2,,1,1
+"SM","San Marino",3,,1,2,
+"TZ","Tanzania",2,,2,,
+"IQ","Iraq",2,,,2,1
+"MZ","Mozambique",2,1,,1,
+"GT","Guatemala",2,,1,1,1
+"TM","Turkmenistan",2,,1,1,1
+"BA","Bosnia and Herzegovina",2,,1,1,2
+"MU","Mauritius",2,1,,1,1
+"DJ","Djibouti",2,,,2,1
+"VI","United States Virgin Islands",2,1,1,,1
+"BM","Bermuda",2,1,,1,
+"MC","Monaco",2,,,2,1
+"SD","Sudan",1,,1,,
+"BF","Burkina Faso",1,,,1,
+"SN","Senegal",1,,1,,
+"KH","Cambodia",1,,,1,1
+"BO","Bolivia",1,1,,,1
+"HN","Honduras",1,,,1,1
+"TG","Togo",1,,,1,
+"PY","Paraguay",1,,1,,
+"SV","El Salvador",1,,1,,1
+"GA","Gabon",1,,1,,
+"GY","Guyana",1,,,1,
+"ME","Montenegro",1,,1,,
+"BB","Barbados",1,,,1,
+"WS","Samoa",1,,1,,
+"LC","Saint Lucia",1,,1,,1
+"TO","Tonga",1,,1,,
+"AD","Andorra",1,,,1,1
+"NR","Nauru",1,,1,,1
+,"Total",20661,6685,6731,7245,2540
