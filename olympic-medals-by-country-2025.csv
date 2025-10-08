@@ -28,7 +28,7 @@
 "BR","Brazil",182,47,55,80,32
 "GR","Greece",169,47,63,59,12
 "NZ","New Zealand",160,61,40,59,17
-"CZ","Czech Republic",135,36,46,53,34
+"CZ","Czechia",135,36,46,53,34
 "TR","Turkey",134,45,34,55,31
 "KE","Kenya",128,43,45,40,15
 "BY","Belarus",126,26,48,52,21
@@ -68,7 +68,7 @@
 "TT","Trinidad and Tobago",22,4,6,12,3
 "TN","Tunisia",20,6,5,9,5
 "MY","Malaysia",19,2,11,6,6
-"BS","Bahamas",19,8,3,8,3
+"BS","The Bahamas",19,8,3,8,3
 "DO","Dominican Republic",17,5,6,6,5
 "HK","Hong Kong",17,2,9,6,8
 "PH","Philippines",15,1,6,8,1
@@ -96,7 +96,7 @@
 "ZM","Zambia",5,1,2,2,3
 "LB","Lebanon",5,,2,3,1
 "NA","Namibia",5,,5,,
-"CI","Ivory Coast",4,1,1,2,
+"CI","Côte d'Ivoire",4,1,1,2,
 "SY","Syria",4,1,1,2,
 "BI","Burundi",4,2,2,,2
 "CR","Costa Rica",4,1,1,2,
