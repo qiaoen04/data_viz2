@@ -70,7 +70,7 @@
 "MY","Malaysia",19,2,11,6,6
 "BS","The Bahamas",19,8,3,8,3
 "DO","Dominican Republic",17,5,6,6,5
-"HK","Hong Kong",17,2,9,6,8
+"HK","Hong Kong S.A.R",17,2,9,6,8
 "PH","Philippines",15,1,6,8,1
 "UG","Uganda",15,5,5,5,4
 "VN","Vietnam",14,5,6,3,9
@@ -123,7 +123,7 @@
 "BA","Bosnia and Herzegovina",2,,1,1,2
 "MU","Mauritius",2,1,,1,1
 "DJ","Djibouti",2,,,2,1
-"VI","United States Virgin Islands",2,1,1,,1
+"VI","U.S Virgin Islands",2,1,1,,1
 "BM","Bermuda",2,1,,1,
 "MC","Monaco",2,,,2,1
 "SD","Sudan",1,,1,,
